@@ -438,7 +438,7 @@ def main():
 #we use oursend function so we will need to pass data through this function!
 #send_transaction(wallet, NameYourAlias, recipient_address_str, custom_amount, token_id=None, custom_metadata_str=None)
 
-    #Finished loging in and checking balance and trading logic: end!
+    #Finished logging in and checking balance and trading logic: end!
     #____________________________________________________________________________________________________________________________________________________
 
 
